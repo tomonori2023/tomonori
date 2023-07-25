@@ -3,7 +3,7 @@
   "description": "ワインを楽しんだ記憶のコルクを集めてくれたお店の日本地図",
   "form_url": "",
   "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/atelier.png",
+  "background_image_url": "https://geoloniamaps.github.io/pwamap/atelier.svg",
   "primary_color": "#d2691e",
   "orderby": "distance"
 }
