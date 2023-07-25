@@ -2,8 +2,8 @@
   "title": "Cork Map 2023",
   "description": "ワインを楽しんだ記憶のコルクを集めてくれたお店の日本地図",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/corkhand.svg",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/atelier.svg",
+  "logo_image_url": "https://tomonori2023.github.io/tomonori/corkhand.svg",
+  "background_image_url": "https://tomonori2023.github.io/tomonori/atelier.svg",
   "primary_color": "#d2691e",
   "orderby": "distance"
 }
