@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1202",
+  "range": "'スポットデータ'!A1:J1201",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -15,18 +15,6 @@
       "公式サイト"
     ],
     [
-      "2022/05/11 14:46:34",
-      "オフィス",
-      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
-      "35.65699958",
-      "139.6985592",
-      "株式会社Geolonia",
-      "株式会社Geoloniaの東京オフィスです",
-      "",
-      "geoloniamap",
-      "https://geolonia.com"
-    ],
-    [
       "",
       "アトリエ・ワインバー",
       "https://tomonori2023.github.io/tomonori/atelier.jpg",
@@ -34,7 +22,7 @@
       "139.8079626",
       "Atelier Cork & Tip (アトリエ・コルク＆チップ)",
       "コルクアートアトリエ兼ワインバーです",
-      "",
+      "https://www.instagram.com/kuboblanc",
       "",
       "https://corkart.thebase.in/"
     ],
