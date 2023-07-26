@@ -1339,7 +1339,7 @@
     [
       "",
       "サラミ・生ハム専門店　ワインショップ",
-      "",
+      "https://tomonori2023.github.io/tomonori/otis.jpg",
       "35.722498",
       "139.814497",
       "Otis",
@@ -1387,7 +1387,7 @@
     [
       "",
       "焼鳥　フランス料理店",
-      "",
+      "https://tomonori2023.github.io/tomonori/gokita.jpg",
       "35.698334",
       "139.754239",
       "神保町 五木田",
@@ -2043,6 +2043,18 @@
       "35.61992",
       "139.705368",
       "eme"
+    ],
+    [
+      "",
+      "尾崎牛代理店",
+      "https://tomonori2023.github.io/tomonori/eatmeet",
+      "35.604821",
+      "139.746321",
+      "eatmeet （イートミート）",
+      "",
+      "",
+      "",
+      "http://www.eatmeet.co.jp/"
     ]
   ]
 }
