@@ -34,7 +34,7 @@
       "136.965365",
       "イルソーレ",
       "リストランテ・イル・ソーレは昭和区山手通にある、イタリア伝統料理と土着品種のワイン専門店です。",
-      "",
+      "ristorante_il_sole",
       "",
       "https://ilsole-nagoya.com/"
     ],
@@ -58,7 +58,7 @@
       "131.360291",
       "湯布院玉の湯 Nicol's Bar",
       "湯布院の玉の湯の中にあるバーです",
-      "",
+      "yufuin_tamanoyu",
       "",
       "https://www.tamanoyu.co.jp/"
     ],
@@ -69,7 +69,8 @@
       "34.697324",
       "135.49866",
       "SANAGIYA",
-      "御紹介制の隠れ家BAR Salon"
+      "御紹介制の隠れ家BAR Salon",
+      "sanagi.ya"
     ],
     [
       "",
@@ -91,7 +92,7 @@
       "135.444946",
       "大阪エアポートワイナリー",
       "世界でただひとつの空港内ワイン醸造所",
-      "",
+      "osaka_airportwinery",
       "",
       "https://www.airportwinery.osaka/"
     ],
@@ -115,7 +116,7 @@
       "135.566111",
       "みたまり酒店",
       "",
-      "",
+      "yoko_dosu",
       "",
       "https://www.mitamari.com/"
     ],
@@ -127,7 +128,7 @@
       "130.553618",
       "イル・チプレッソ",
       "",
-      "",
+      "ilcipresso",
       "",
       "https://www.ilcipresso.jp/"
     ],
@@ -139,7 +140,7 @@
       "139.102177",
       "bar clave（バル・クラーベ）",
       "",
-      "",
+      "yugawarastyle.barclave",
       "",
       "https://tabelog.com/kanagawa/A1410/A141002/14063181/"
     ],
@@ -151,7 +152,7 @@
       "139.539686",
       "スブリデオ・レストラーレ",
       "",
-      "",
+      "kenji_subrideo1115",
       "",
       "https://www.subrideo.info/"
     ],
@@ -163,7 +164,7 @@
       "139.493389",
       "サザンクロス",
       "",
-      "",
+      "southerncrossltd",
       "",
       "https://www.scwines.com/"
     ],
@@ -175,7 +176,7 @@
       "139.584006",
       "Nicols & Herbs（ニコラ＆ハーブ）",
       "",
-      "",
+      "nicochanjapan",
       "",
       "http://nicolasandherbs.com/"
     ],
@@ -185,7 +186,11 @@
       "",
       "35.477351",
       "139.547491",
-      "avec le vin"
+      "avec le vin",
+      "",
+      "sommelierdrummer",
+      "",
+      "https://aveclevin.stores.jp/"
     ],
     [
       "",
