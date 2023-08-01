@@ -1194,7 +1194,7 @@
       "139.773939",
       "Pont d'or Inno",
       "",
-      "",
+      "pont_dor_inno",
       "",
       "http://www.pontdorinno.com/"
     ],
@@ -1204,7 +1204,11 @@
       "",
       "35.647742",
       "139.591871",
-      "Quindici"
+      "Quindici",
+      "",
+      "osteria15",
+      "",
+      "https://tabelog.com/tokyo/A1318/A131814/13233529/"
     ],
     [
       "",
@@ -1214,7 +1218,7 @@
       "139.759445",
       "帝国ホテル　ラ・ブラスリー",
       "",
-      "",
+      "imperialhotel_jp_official",
       "",
       "https://www.imperialhotel.co.jp/j/tokyo/restaurant/la_brasserie/index.html"
     ],
@@ -1226,7 +1230,7 @@
       "139.758663",
       "帝国ホテル　 レ・セゾン　",
       "",
-      "",
+      "imperialhotel_jp_official",
       "",
       "https://www.imperialhotel.co.jp/j/tokyo/restaurant/les_saisons/"
     ],
@@ -1244,7 +1248,11 @@
       "",
       "35.683215",
       "139.741222",
-      "アズマコーポレーション"
+      "アズマコーポレーション",
+      "",
+      "azumacorporation",
+      "",
+      "https://azumacorp.jp/"
     ],
     [
       "",
@@ -1260,7 +1268,11 @@
       "",
       "35.579829",
       "139.463066",
-      "ユウコーポレーション"
+      "ユウコーポレーション",
+      "",
+      "yucorpration",
+      "",
+      "https://www.yu-corporation.com/"
     ],
     [
       "",
@@ -1268,7 +1280,11 @@
       "",
       "35.69786",
       "139.560732",
-      "Calvet（カルヴェ）"
+      "Calvet（カルヴェ）",
+      "",
+      "",
+      "",
+      "https://tabelog.com/tokyo/A1320/A132002/13122467/"
     ],
     [
       "",
@@ -1276,7 +1292,11 @@
       "",
       "35.676053",
       "139.736767",
-      "あじる亭"
+      "あじる亭",
+      "",
+      "agirutei_annesso",
+      "",
+      "https://ajiru-tei.com/annesso/"
     ],
     [
       "",
@@ -1284,7 +1304,11 @@
       "",
       "35.67324",
       "139.738123",
-      "Elebage"
+      "Elebage",
+      "",
+      "elevage_tokyo",
+      "",
+      "https://elevage3.com/"
     ],
     [
       "",
@@ -1292,7 +1316,11 @@
       "",
       "35.675252",
       "139.736228",
-      "セレブール"
+      "セレブール",
+      "",
+      "celebourg_ak123",
+      "",
+      "https://tabelog.com/tokyo/A1308/A130801/13004946/"
     ],
     [
       "",
@@ -1300,7 +1328,11 @@
       "",
       "35.657718",
       "139.732343",
-      "中島董商店"
+      "中島董商店",
+      "",
+      "winetostyle",
+      "",
+      "https://www.nakashimato.com/"
     ],
     [
       "",
@@ -1308,7 +1340,11 @@
       "",
       "35.653815",
       "139.735289",
-      "HAL PINOT"
+      "HAL PINOT",
+      "",
+      "halpinot",
+      "",
+      "https://tabelog.com/tokyo/A1307/A130702/13226745/"
     ],
     [
       "",
@@ -1316,7 +1352,11 @@
       "",
       "35.653824",
       "139.735016",
-      "ピッコログランデ"
+      "ピッコログランデ",
+      "",
+      "piccologrande1996",
+      "",
+      "https://tabelog.com/tokyo/A1307/A130702/13001691/"
     ],
     [
       "",
@@ -1324,7 +1364,11 @@
       "",
       "35.665069",
       "139.748515",
-      "田崎真也ワインサロン"
+      "田崎真也ワインサロン",
+      "",
+      "shinya.tasaki.wineclub",
+      "",
+      "https://www.tasaki-shinya.com/wineclub/"
     ],
     [
       "",
@@ -1332,7 +1376,11 @@
       "",
       "35.667907",
       "139.755789",
-      "ワイン蔵TOKYO"
+      "ワイン蔵TOKYO",
+      "",
+      "winegura",
+      "",
+      "http://www.winegura.com/"
     ],
     [
       "",
@@ -1340,7 +1388,11 @@
       "",
       "35.667694",
       "139.755968",
-      "富士インダストリーズ"
+      "富士インダストリーズ",
+      "",
+      "",
+      "",
+      "https://www.ficjp.com/products/wine/"
     ],
     [
       "",
@@ -1348,7 +1400,11 @@
       "",
       "35.661885",
       "139.755411",
-      "フィネス"
+      "フィネス",
+      "",
+      "finessewinejapan",
+      "",
+      "https://finesse-wine.co.jp/"
     ],
     [
       "",
@@ -1356,7 +1412,11 @@
       "",
       "35.660121",
       "139.723845",
-      "33 Wine Lounge"
+      "33 Wine Lounge",
+      "",
+      "",
+      "",
+      "https://tabelog.com/tokyo/A1307/A130701/13168332/"
     ],
     [
       "",
@@ -1364,7 +1424,11 @@
       "",
       "35.660729",
       "139.724849",
-      "フェルミンチョ"
+      "フェルミンチョ",
+      "",
+      "restaurantefermintxo",
+      "",
+      "https://www.fermintxo.com/"
     ],
     [
       "",
@@ -1372,7 +1436,11 @@
       "",
       "35.659467",
       "139.723023",
-      "ワインのばか"
+      "ワインのばか",
+      "",
+      "",
+      "",
+      "https://tabelog.com/tokyo/A1307/A130701/13161449/"
     ],
     [
       "",
@@ -1380,7 +1448,11 @@
       "",
       "35.656348",
       "139.723608",
-      "西麻布みかづき"
+      "西麻布みかづき",
+      "",
+      "nishiazabu.mikatsuki",
+      "",
+      "https://nishiazabu-mikatsuki.jp/"
     ],
     [
       "",
@@ -1388,7 +1460,11 @@
       "",
       "35.669451",
       "139.75303",
-      "カーヴ・ド・リラックス"
+      "カーヴ・ド・リラックス",
+      "",
+      "cavederelax",
+      "",
+      "https://www.cavederelax.com/"
     ],
     [
       "",
@@ -1396,7 +1472,11 @@
       "",
       "35.64713",
       "139.724233",
-      "KENZO ESTATE WINERY 広尾"
+      "KENZO ESTATE WINERY 広尾",
+      "",
+      "kenzoestate_jp",
+      "",
+      "https://tr.kenzoestate.jp/hiroo/"
     ],
     [
       "",
@@ -1404,7 +1484,11 @@
       "",
       "35.657341",
       "139.732306",
-      "gri gri"
+      "gri gri",
+      "",
+      "kenkenshishishi",
+      "",
+      "http://www.gri-gri.net/"
     ],
     [
       "",
@@ -1412,7 +1496,11 @@
       "",
       "35.664701",
       "139.73352",
-      "Ryuzu"
+      "Ryuzu",
+      "",
+      "restaurant_ryuzu",
+      "",
+      "http://restaurant-ryuzu.com/"
     ],
     [
       "",
@@ -1420,7 +1508,11 @@
       "",
       "35.660309",
       "139.733841",
-      "Cucina alla Baba"
+      "Cucina alla Baba",
+      "",
+      "",
+      "",
+      "https://tabelog.com/tokyo/A1307/A130701/13170144/"
     ],
     [
       "",
@@ -1428,7 +1520,11 @@
       "",
       "35.664412",
       "139.729846",
-      "Le Sputnik（ル・スプートニク）"
+      "Le Sputnik（ル・スプートニク）",
+      "",
+      "le_sputnik",
+      "",
+      "https://le-sputnik.jp/"
     ],
     [
       "",
@@ -2016,7 +2112,11 @@
       "",
       "35.656675",
       "139.735092",
-      "Wine to Style"
+      "Wine to Style",
+      "",
+      "winetostyle",
+      "",
+      "https://www.winetostyle.co.jp/?fbclid=IwAR0gIDGCz6SpxEvW_dznJyLjf3VMiibx7dr64M8iiVcgvxF8TNaKbXbrYlY"
     ],
     [
       "",
