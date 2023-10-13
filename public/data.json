@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1197",
+  "range": "'スポットデータ'!A1:J1198",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -213,6 +213,18 @@
       "",
       "",
       "https://pentola-c.com/"
+    ],
+    [
+      "",
+      "【コルクアートワインが飲めるレストラン】ホテル　ビストロ",
+      "",
+      "35.71024829",
+      "139.77817",
+      "NOHGA HOTEL UENO TOKYO (ノーガホテル上野)",
+      "",
+      "https://www.instagram.com/bistro_nohga/",
+      "",
+      "https://nohgahotel.com/ueno/"
     ],
     [
       "",
