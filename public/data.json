@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J1198",
+  "range": "'スポットデータ'!A1:J1199",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -150,7 +150,7 @@
       "141.1657577",
       "シャレー・アイビー",
       "",
-      "https://www.instagram.com/chaletivy/",
+      "chaletivy",
       "",
       "https://chaletivy.com/ja/jozankei/"
     ],
@@ -222,9 +222,19 @@
       "139.77817",
       "NOHGA HOTEL UENO TOKYO (ノーガホテル上野)",
       "",
-      "https://www.instagram.com/bistro_nohga/",
+      "bistro_nohga",
       "",
       "https://nohgahotel.com/ueno/"
+    ],
+    [
+      "",
+      "【コルクアートワインが飲めるレストラン】ワインバー",
+      "",
+      "35.65458851",
+      "139.7358944",
+      "Champagne Bar Red G",
+      "",
+      "re.g_azabu"
     ],
     [
       "",
@@ -2741,6 +2751,18 @@
       "Deep Sea",
       "",
       "sana01180"
+    ],
+    [
+      "",
+      "ワインショップ",
+      "",
+      "35.62603523",
+      "139.7129603",
+      "Wine Shop Nipote",
+      "",
+      "wineshopnipote",
+      "",
+      "https://tabelog.com/tokyo/A1317/A131710/13264795/"
     ]
   ]
 }
