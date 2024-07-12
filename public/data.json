@@ -2310,7 +2310,9 @@
       "139.71378",
       "ジョエル・ロブション",
       "",
-      "robuchon_tokyo"
+      "robuchon_tokyo",
+      "",
+      "https://www.robuchon.jp/"
     ],
     [
       "",
@@ -2881,6 +2883,30 @@
       "tsujicho",
       "",
       "https://www.tsuji.ac.jp/college/chorishi_tokyo/"
+    ],
+    [
+      "",
+      "イタリア料理店",
+      "",
+      "32.78185819",
+      "130.7177579",
+      "トレ・ステッレ",
+      "",
+      "tre.stelle123",
+      "",
+      "http://www.tre-stelle.com/"
+    ],
+    [
+      "",
+      "相撲部屋",
+      "",
+      "35.72397937",
+      "139.8063949",
+      "立浪部屋",
+      "",
+      "tatsunamibeya",
+      "",
+      "\r\nhttps://www.tatsunami.jp/"
     ]
   ]
 }
